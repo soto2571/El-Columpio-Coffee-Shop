@@ -95,6 +95,17 @@ footer {
     padding-left: 20px;
 }
 
+.coffee-bag {
+    text-align: right;
+    margin-right: 30px;
+}
+
+.coffee-bag img {
+    margin-top: -90px;
+    margin-right: -100px;
+}
+
+
 #about {
     background-color: #f8f9fa; /* Light gray background for about section */
     padding: 50px 0;
