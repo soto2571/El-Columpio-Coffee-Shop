@@ -1,7 +1,7 @@
 /* Global styles */
 body {
     font-family: Arial, sans-serif;
-    background-color: #613f3f; /* Light gray background */
+    background-color: #493232; /* Light gray background */
     color: #000000; /* Dark gray text color */
     margin: 0; /* Remove default margin */
     padding: 0; /* Remove default padding */
@@ -82,33 +82,36 @@ body {
 }
 
 footer {
-    background-color: #916a6aa1; /* Dark gray footer background */
+    background-color: #493232; /* Dark gray footer background */
     color: #fff; /* White text color for footer */
     padding: 20px 0;
     text-align: center;
 }
 
 /* Custom styles for specific sections */
-#menu {
-    background-color: #fff; /* White background for menu section */
-    padding: 50px 0;
-    padding-left: 20px;
-}
+
 
 .coffee-bag {
     text-align: right;
     margin-right: 30px;
 }
 
+#menu {
+    background-color: #fff; /* White background for menu section */
+    padding: 50px 0;
+    padding-left: 20px;
+}
+
 .coffee-bag img {
     margin-top: -90px;
     margin-right: -100px;
+    filter: drop-shadow(0 0 10px rgba(0, 0, 0, .8));
 }
 
 
 #about {
-    background-color: #f8f9fa; /* Light gray background for about section */
+    background-color: #ffffff; /* Light gray background for about section */
     padding: 50px 0;
     padding-left: 20px;
-    padding-right: 30px;
+    padding-right: 20px;
 }
