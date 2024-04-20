@@ -2,7 +2,7 @@
 body {
     font-family: Arial, sans-serif;
     background-image: url('https://preview.redd.it/columpiofinal-v0-nsc016e7wnvc1.jpeg?width=640&crop=smart&auto=webp&s=d55063330167433a23c40a7a4767c5fc5a4bf941');
-    background-size: auto;
+    background-size:contain;
     background-repeat: inherit;
     color: #000000;
     margin-bottom: 50px;
